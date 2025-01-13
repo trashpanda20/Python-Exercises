@@ -1,0 +1,3 @@
+The webscraper pulls all the links from the page, and  was inserted into a text file. I then used, the links as a way to create a list of pages to pull the information from. Name, Level, school, duration, components, range, description, and types were pulled off and put into a csv file. 
+Next order of business is turning the csvfilr into a set of split files by schools.
+Then the files will be copied into MySQL Workbench file.
